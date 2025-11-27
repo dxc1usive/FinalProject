@@ -26,10 +26,9 @@ https://data.wprdc.org/dataset/2020-census-redistricting-data-extracts/resource/
 
 
 City Parks:
+Which neighborhood has the most green space, which can provide calming vibes to the residents. 
 
-
-
-
+https://data.wprdc.org/en/dataset/parks/resource/fa329e3d-89ff-4708-8ddf-81bfedcad11d
 
 
 Imagine you just moved to Pittsburgh and can not decide which neighborhood to move into; this project uses multiple datasets to analyze which neighborhoods have the best overall resources, like Education, Populations, which can be used to decide pull factores, and Public Parks. 
